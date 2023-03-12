@@ -1,0 +1,7 @@
+== geoCML Desktop
+
+geoCML Desktop is the primary user entry point for any geoCML instance. You
+can connect to geoCML Desktop using a VNC viewer. Once connected, you can
+interface with your data using a virtualized Linux desktop running QGIS. In
+this topic, you will learn how geoCML Desktop works and how to configure geoCML
+Desktop with additional features.
